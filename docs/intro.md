@@ -9,102 +9,95 @@ import '@site/src/css/custom.css';
 
 import AudioPlayer from '@site/src/components/AudioPlayer';
 
-**Listen to the directions:**
 
-<AudioPlayer src="/audio/Airbnb.mp3" />
+<!-- <AudioPlayer src="/audio/Airbnb.mp3" /> -->
 
 <div className="spacer"></div>
 
 **Read the directions:**
 
 
-Where to grab the key: **Information will be provided by Host**.
-
-**⬇️ Only if your Check-In is before 6pm ⬇️**
-
-**CHECK-IN Before 6PM:** Keys will be picked up at **UPS STORE** 📬🔑 **10455 N Central Expy Ste 109-B, Dallas, TX 75231** → **<a href="https://g.co/kgs/FeGquvt" target="_blank">Google 🔗</a>**
-
-**Booking Code:** RS31TP85 → <a href="https://i.ibb.co/4Z5r0dL/IMG-4574.jpg" target="_blank">View Code 🔗</a>
+How to Access the Airbnb: **Door Code will be provided by Host**.
 
 
 ## Airbnb Location
 
-Address is **8213 Meadow Rd, Dallas TX 75231**.
+Address is **10658 N Central Expy, Dallas TX 75231**.
 
-Or **The Nash** on **<a href="https://www.google.com/search?q=the+nash+apartments+map&oq=The+Nash&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyBggCEEUYOTIGCAMQRRhAMg0IBBAuGNQCGLEDGIAEMhYIBRAuGK8BGMcBGNQCGLEDGIAEGI4FMg0IBhAuGNQCGLEDGIAEMg0IBxAuGNQCGLEDGIAE0gEJMTk4NWowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8#scso=_NYGNZuWhI4vkwN4PxL-osAQ_41:878" target="_blank">Google 🔗</a>**.
+Or **Lantower Midtown** on **<a href="https://share.google/3X7Na4kPjontifOnw" target="_blank">Google 🔗</a>**.
 
-**<a href="https://maps.app.goo.gl/nuUWvXGUDRCxye966" target="_blank">Click Here 🔗</a>** to be taken to the exact **Pin Point** of the **entrance**. (32°53'20.3"N 96°45'46.9"W)
+**<a href="https://maps.app.goo.gl/z2xEksqP5P3G29BUA" target="_blank">Click Here 🔗</a>** to be taken to the exact **Pin Point** of the **Garage entrance**. (32.890525, -96.768702)
 
 
 ### Entrance
 
-- **<a href="https://airbnbone.vercel.app/img/map.png" target="_blank">Entrance 🔗</a>** is located on **Rambler Rd**:
-  - Get close to the gate and use **key fob** or use **Gate code 5255 or 5255 call**.
+- **<a href="../img/map.png" target="_blank">Entrance 🔗</a>** is located **Between Apartment ' The Mark ' & ' Lantower Midtown '**:
+  - **Visitor Parking** is located outside the rolling gate and you must **Register** your car or else you will be **towed**.
 
-  Once you are inside the gate, **<a href="https://maps.app.goo.gl/SadFp5BvBmsKs8oi7" target="_blank">Click Here 🔗</a>** to be taken to the front of building 5. (32°53'22.2"N 96°45'51.2"W) <a href="../img/map.jpg" target="_blank">View Map 🔗</a>
-
-  Still confused? <a href="../img/video.mp4" target="_blank">View Video 🔗</a>
-
-  ![Entrance](https://i.ibb.co/Qk1mVYn/Entrance.png)
+| ![Building](https://i.ibb.co/N5DZ2z4/1.png) | ![RedCircle](https://i.ibb.co/fGkJDfdW/2.png) |
+|:------------------------------:|:------------------------------:|
+| Parking Garage Entrance        | Guest Parking Space       |
+  
 
 
 ## Visitor Parking
 
-The visitor parking is located as soon as you enter the gate: **The Green Circle Space**.
+⚠️ Read the directions carefully to avoid being **towed**. ⛔️
 
-**<a href="https://maps.app.goo.gl/N49WCbvFWW3hqAAX7" target="_blank">Click Here 🔗</a>** to see the exact **Pin Point** of **Visitor Parking** inside the gate. (32°53'20.2"N 96°45'49.9"W
-)
+**1.** *Visitors* may park in the garage up to **three days per week**, and vehicles must be registered each day they are parked. (Each vehicle registration is valid for 24 hours only.)
 
-⚠️ If you park anywhere else without a car sticker or a pass, your car will be **towed**. ⛔️
-
-If there isn't any space in the **Visitor Parking** inside the gate, you can park outside the gate. **<a href="https://maps.app.goo.gl/NrnUAxa6B4ghKx86A" target="_blank">Option 1 🔗</a>**, **<a href="https://maps.app.goo.gl/AUTpwGqF36WjX5Kw6" target="_blank">Option 2 🔗</a>** ,  **<a href="https://maps.app.goo.gl/ia7J7h1GoyfognGu7" target="_blank">Option 3 🔗</a>** ,  **<a href="https://maps.app.goo.gl/89FSjrUshahDhyw1A" target="_blank">Option 4 🔗</a>** , **<a href="https://maps.app.goo.gl/qzUm1349oNCTMKqCA" target="_blank">Option 5 🔗</a>** .
+**2.** If you are staying longer than three days and have already used your allotted visitor parking for the week, you may park on the street across from the building. **<a href="https://maps.app.goo.gl/3GFUyuJPban7wsW46" target="_blank">Click Here 🔗</a>** to see the exact **Pin Point** of the outside **Parking** on Midtown Blvd. (32.891559, -96.768145)
 
 
+**3.** To register you car navigate to this link: **<a href="https://parkingpermitsofamerica.com/permit-code-entry" target="_blank">parkingpermitsofamerica.com 🔗</a>** and enter the code **LMVP**. Enter your car information, the apartment number and the Airbnb host which is **Kissi**.
 
-![Visitor Parking](https://i.ibb.co/FXXWRMS/visitor.png)
-
-```bash
-TEMPORARY RESIDENT JLS TOWING PASS
-```
-
-If you want to park in the **top parking lot** which is closer to your Airbnb or the **garage**, the pass will be left inside the Airbnb for you.
-
-Place the temporary resident pass inside your car where it's visible.
-
-![Pass](https://i.ibb.co/YRKsCGs/pass.png)
-
-Please ensure that the **Resident Parking Pass** is returned to its original location upon **check-out**.
-
-
-
-## Your Airbnb
-
-Your Airbnb is located in "Building 5" : **Red Circle**
-
-| ![Building](https://i.ibb.co/F61f04H/building.png) | ![RedCircle](https://i.ibb.co/WcpXWBf/map.jpg) |
+| ![Building](https://i.ibb.co/27vRRcPK/IMG-7689.jpg) | ![RedCircle](https://i.ibb.co/5gRzt1QL/ele.png) |
 |:------------------------------:|:------------------------------:|
-| Building 5 - Parking Lot        | Red Circle on Map       |
+| Visitor Parking Code       | Elevator      |
+
+## ⭐ Building Access ⭐
+
+**Community / Elevator Access:**
 
 ```bash
-APARTMENT 5255
+728322#
 ```
 
-As soon as you enter through the double doors, **APT 5255** will be the first apartment on the right.
 
-Scan the QR Code inside the **Guide Book** to see where everything is located inside your Airbnb.
+The **Airbnb** is located on the  **4th floor**.
 
-The **WI-FI Password** is displayed for your convenience. Please kindly remove your shoes at the entrance 👟.
+```bash
+APARTMENT 1408
+```
 
-| ![Door](https://i.ibb.co/DpPVbVH/door.png) | ![Guide](https://i.ibb.co/QpHSdbM/guide.png) |![wifi](https://i.ibb.co/m8mycV8/wifi.png) |
-|:------------------------------:|:------------------------------:|:------------------------------:|
-| Door       | Guide     |Wi-Fi      |
+The **Door code** will be provided by the **Host**.
 
-⚠️ If the first double door is jammed, please use the **second double door** located in the middle of the building. Turn **left** and go all the way down the hallway. The apartment will be the first one on the right, next to the trash room.
+| ![Building](https://i.ibb.co/r2vgqBtb/map.jpg) | ![RedCircle](https://i.ibb.co/Vc6T1MD4/door.png) |
+|:------------------------------:|:------------------------------:|
+| Map       | Door      |
 
-| ![Door](https://i.ibb.co/qxtVGNX/door2.png) | ![Guide](https://i.ibb.co/5jq5zqK/turnleft.png) |![wifi](https://i.ibb.co/41dHxZg/trashroom.png) |
-|:------------------------------:|:------------------------------:|:------------------------------:|
-| Second Double Door       | Hallway (Turn Left)     | Trashroom (Visible from Door) |
+If you are still unsure, feel free to reach out on the **Airbnb App** or at **+1 (214) 810-0826**.
 
-⚠️ Please, **NO SMOKING** inside Airbnb One.
+
+
+## 🏡 Airbnb Rules
+
+**Maximum Occupancy** – The Airbnb accommodates up to 4 guests only.
+
+**No Smoking Indoors** – Smoking is strictly prohibited inside the property.
+
+**Quiet Hours** – Please keep noise to a minimum after 10:00 PM to respect neighbors.
+
+**Respect the Space** – Avoid touching or leaning on the walls to help maintain the home.
+
+**Amenities** – All amenities in the home are available for your use.
+
+**Leasing Office** – Please do not visit or contact the leasing office; reach out to us directly for any needs.
+
+**Privacy & Discretion** – We kindly ask all guests to be mindful and discreet during their stay.
+
+**Highway Noise** – You may hear some noise from the nearby highway. To make your stay more comfortable, Alexa devices in the bedroom and kitchen can play sleep sounds to help block out the noise.
+
+**Valet Trash Service** – Available Sunday through Thursday. Pick-up begins promptly between 7:00 PM – 8:00 PM. Please remove trash from the bin before 9:00 AM the following morning.
 
 Click on **Living** to see where everything is located inside your Airbnb.
