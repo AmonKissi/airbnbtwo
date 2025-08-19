@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Guide',
   tagline: 'Airbnb One',
-  url: 'https://airbnbone.vercel.app/',
+  url: 'https://airbnbtwo.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'ignore', // Change this to 'ignore'
   onBrokenMarkdownLinks: 'warn', // This will only warn for broken markdown links
@@ -63,7 +63,7 @@ const config = {
           },
           {to: '/blog', label: 'Photos', position: 'left'},
           {
-            href: 'https://airbnbone.vercel.app/img/map.png',
+            href: 'https://airbnbtwo.vercel.app/img/map.png',
             label: 'Map',
             position: 'right',
           },
@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'Map',
-                href: 'https://airbnbone.vercel.app/img/map.png',
+                href: 'https://airbnbtwo.vercel.app/img/map.png',
               },
             ],
           },
