@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/key-svgrepo-com.svg').default,
     description: (
       <>
-        Effortless Check-In: Retrieving Your Keys from a Nearby Locker
+        Effortless Check-In: Door Code will be provided by your Airbnb Host.
       </>
     ),
   },
