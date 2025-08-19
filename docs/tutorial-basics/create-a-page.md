@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Kitchen
 
-| ![One](https://i.ibb.co/LRL6twn/1.png) | 
+| ![One](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - One | 
 
@@ -16,7 +16,7 @@ Cabinet **One**
 - Mugs
 - Plates and bowls (under the glass protector)
 
-| ![Two](https://i.ibb.co/qMCySBt/2.png) | 
+| ![Two](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Two | 
 
@@ -27,7 +27,7 @@ Cabinet **Two**
 - Plastic containers
 - Napkins (to prevent messes when eating at the table)
 
-| ![Three](https://i.ibb.co/4g0jM7g/3.png) | 
+| ![Three](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Three | 
 
@@ -36,7 +36,7 @@ Cabinet **Three**
 - Cooking pots (for eggs and other items)
 
 
-| ![Four](https://i.ibb.co/qmdtqGS/4.png) | 
+| ![Four](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Four | 
 
@@ -45,7 +45,7 @@ Cabinet **Four**
 - Cutting board (for cutting tomatoes)
 - Bottles for oil and vinegar
 
-| ![Five](https://i.ibb.co/n62yRfC/5.png) | 
+| ![Five](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Five | 
 
@@ -57,7 +57,7 @@ Cabinet **Five**
 - Ziploc bags
 - Aluminum foil
 
-| ![Six](https://i.ibb.co/ZThXRyj/6.png) | 
+| ![Six](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Six | 
 
@@ -66,7 +66,7 @@ Cabinet **Six**
 - Beverages (alcohol, Coke, Sprite)
 - Drink-making tools
 
-| ![Seven](https://i.ibb.co/xqK36gs/7.png) | 
+| ![Seven](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Seven | 
 
@@ -78,7 +78,7 @@ Cabinet **Seven**
 - Sugar
 - Honey
 
-| ![Eight](https://i.ibb.co/X31c6yL/8.png) | 
+| ![Eight](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Eight | 
 
@@ -86,7 +86,7 @@ Cabinet **Eight**
 
 - Bowls
 
-| ![Nine](https://i.ibb.co/47MgWcF/9.png) | 
+| ![Nine](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Nine | 
 
@@ -94,7 +94,7 @@ Cabinet **Nine**
 
 - Cleaning products
 
-| ![Ten](https://i.ibb.co/T2LfMjJ/10.png) | 
+| ![Ten](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Ten | 
 
@@ -102,7 +102,7 @@ Cabinet **Ten**
 
 -  Toolbox
 
-| ![Eleven](https://i.ibb.co/CJK8Ywm/11.png) | 
+| ![Eleven](https://i.ibb.co/Kc5RntVJ/one.jpg) | 
 |:------------------------------:|
 | Cabinet - Eleven | 
 
