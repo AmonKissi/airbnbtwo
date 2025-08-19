@@ -6,14 +6,16 @@ sidebar_position: 1
 
 Directly contact us on the **Airbnb app** or via text at **(214) 810-0826**
 
-Check **Map** or [Click here](https://airbnbone.vercel.app/img/map.png)
+Check **Map** or [Click here](https://airbnbtwo.vercel.app/img/map.png)
  to see what the Apartment has to offer such as Dog Wash, Bike Storage, Lounge, Fitness, Ping Pong, Hammocks, and more.
+
+ Check out the apartment gallery: [Click here](https://midtown.lantower.com/gallery/)
 
 ## Procedure:
 
-**Check-In:** Due to the private property, there is no lockbox. The host will personally hand you the keys to the gate and the Airbnb.
+**Check-In:** The host will give you the Door code to the Airbnb.
 
-**Check-Out:** Please leave the keys on the kitchen counter and ring the doorbell to alert the host.
+**Check-Out:** Make sure the door is locked by covering the key-pad.
 
 # Top Activities and Restaurants:
 
