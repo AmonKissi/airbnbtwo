@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`AirBnb One - ${siteConfig.title}`}
+      title={`AirBnb Two - ${siteConfig.title}`}
       description="Guide">
       <HomepageHeader />
       <main>
