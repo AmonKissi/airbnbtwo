@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Guide',
-  tagline: 'Airbnb One',
+  tagline: 'Airbnb Two',
   url: 'https://airbnbtwo.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'ignore', // Change this to 'ignore'
@@ -51,7 +51,7 @@ const config = {
       navbar: {
         title: 'Guide',
         logo: {
-          alt: 'Airbnb One',
+          alt: 'Airbnb Two',
           src: 'img/airbnb.png',
         },
         items: [
