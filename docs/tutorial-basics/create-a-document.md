@@ -30,9 +30,5 @@ Ask **Alexa** 🗣 ("Alexa turn on Living Room TV") to turn on the TV:
 |:------------------------------:|:------------------------------:|
 | Lamp      | Switch    | 
 
-## Outside Light
 
-| ![TV](https://i.ibb.co/xCP8LVZ/light.png) | ![remote](https://i.ibb.co/y5ZPTKb/lightr.png) |
-|:------------------------------:|:------------------------------:|
-| Outside Light      | Remote    | 
 
