@@ -17,7 +17,10 @@ import AudioPlayer from '@site/src/components/AudioPlayer';
 **Read the directions:**
 
 
-How to Access the Airbnb: **Door Code will be provided by Host**.
+
+How to Access the Airbnb 🔑:
+
+Your personalized **Door code** will be **provided by the Host** within **24 hours prior to check-in**.
 
 
 ## Airbnb Location
@@ -55,6 +58,30 @@ Or **Lantower Midtown** on **<a href="https://share.google/3X7Na4kPjontifOnw" ta
 |:------------------------------:|:------------------------------:|
 | Visitor Parking Code       | Elevator      |
 
+
+## Over 3 Days Visitor Parking 🚗
+
+**Visitor** parking inside the garage is **limited to 3 days per week**.
+
+**Stays longer than 3 days cannot be registered for garage parking**.
+
+If you **exceed this limit**, you’ll need to park in the designated overflow lot located on the other side of the building.
+
+**<a href="https://maps.app.goo.gl/gL58GnVW2Gh44WJS7" target="_blank">Click Here 🔗</a>**
+
+| ![Building](https://i.ibb.co/XZtXVjHj/8.png) | ![RedCircle](https://i.ibb.co/kgncrPYx/9.png) |
+|:------------------------------:|:------------------------------:|
+| Outside Street Parking (Midtown Blvd)     |  Outside Street Parking (Midtown Blvd)      |
+
+| ![Building](https://i.ibb.co/dwgh62QM/10.png) | ![RedCircle](https://i.ibb.co/HTjxpR6x/11.png) | 
+|:------------------------------:|:------------------------------:| 
+| Street Entrance     |  Proceed through White Door     |
+
+![Building](https://i.ibb.co/b59BvMcy/12.png) | ![Building](https://i.ibb.co/MyH0nnsj/13.png) |
+:------------------------------:| :------------------------------:|
+| Black Door To Lobby   |  Elevator to 4th Floor (Turn left Pass Gym)|  
+
+
 ## ⭐ Building Access ⭐
 
 **Community / Elevator Access:**
@@ -78,6 +105,11 @@ The **Door code** will be provided by the **Host**.
 
 If you are still unsure, feel free to reach out on the **Airbnb App** or at **+1 (214) 810-0826**.
 
+## Amenities 🏋
+
+**Gym** & **Yoga studio** are 24 hours.
+
+**Sky Decks** & **Pools** closes at 10PM.
 
 
 ## 🏡 Airbnb Rules
