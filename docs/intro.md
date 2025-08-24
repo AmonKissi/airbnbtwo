@@ -105,6 +105,25 @@ The **Door code** will be provided by the **Host**.
 
 If you are still unsure, feel free to reach out on the **Airbnb App** or at **+1 (214) 810-0826**.
 
+## Door 🚪 & Thermostat ❄️
+
+| ![Building](https://i.ibb.co/8g2WC1zp/33.png) | ![RedCircle](https://i.ibb.co/Q36BMBYV/35.png) |
+|:------------------------------:|:------------------------------:|
+| Place your hand in front of "Yale logo" to turn on, repeat the same to lock the door       | Thermostat is located on the left side of the couch      |
+
+## WIFI 🛜 & IMAC 🖥️ Passcode
+
+
+```bash
+WIFI - Network: WhiteSky-Lantower  Password: 3xtb6kwf
+```
+
+
+```bash
+IMAC - Username: Airbnb II Guest Password: Space Space Space Space
+```
+
+
 ## Amenities 🏋
 
 **Gym** & **Yoga studio** are 24 hours.
